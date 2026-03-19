@@ -10,16 +10,46 @@
     },
     "items": [
         {
+            "id": "https://sheila-mp.github.io/experiencia-profesional.html",
+            "url": "https://sheila-mp.github.io/experiencia-profesional.html",
+            "title": "Experiencia Profesional",
+            "summary": "Docente de Competencias Digitales en BigFormación D....",
+            "content_html": "<ul style=\"list-style-type: square;\">\n<li>\n<h6>Docente de Competencias Digitales en BigFormación</h6>\n</li>\n<li>\n<h6><span style=\"font-size: 1em; letter-spacing: -0.54px;\">D....</span></h6>\n</li>\n</ul>",
+            "author": {
+                "name": "Sheila"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-19T17:36:48+01:00",
+            "date_modified": "2026-03-19T17:36:48+01:00"
+        },
+        {
+            "id": "https://sheila-mp.github.io/certificados-profesionales.html",
+            "url": "https://sheila-mp.github.io/certificados-profesionales.html",
+            "title": "Certificados Profesionales",
+            "summary": "Diseño de Productos Gráficos (ARGG0110) Docencia de la Formación Profesional para el Empleo (SSCE0110)",
+            "content_html": "<ul style=\"list-style-type: square;\">\n<li>\n<h6>Diseño de Productos Gráficos (ARGG0110)</h6>\n</li>\n<li>\n<h6><span style=\"font-size: 1em; letter-spacing: -0.54px;\">Docencia de la Formación Profesional para el Empleo (SSCE0110) </span></h6>\n</li>\n</ul>\n<h1> </h1>",
+            "author": {
+                "name": "Sheila"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-19T17:29:26+01:00",
+            "date_modified": "2026-03-19T17:29:26+01:00"
+        },
+        {
             "id": "https://sheila-mp.github.io/que-se-vean.html",
             "url": "https://sheila-mp.github.io/que-se-vean.html",
-            "title": "Que se vean",
+            "title": "Formación Reglada",
+            "summary": "Máster en Estudos da Literatura e da Cultura Grado en Linguas e Literaturas Modernas e Españolas",
+            "content_html": "<ul style=\"list-style-type: square;\">\n<li>\n<h6>Máster en Estudos da Literatura e da Cultura</h6>\n</li>\n<li>\n<h6>Grado en Linguas e Literaturas Modernas e Españolas</h6>\n</li>\n</ul>",
             "author": {
                 "name": "Sheila"
             },
             "tags": [
             ],
             "date_published": "2026-03-04T11:50:18+01:00",
-            "date_modified": "2026-03-04T11:50:18+01:00"
+            "date_modified": "2026-03-19T17:28:19+01:00"
         }
     ]
 }
