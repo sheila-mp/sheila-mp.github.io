@@ -3,92 +3,10 @@
     <title>Portfolio</title>
     <link href="https://sheila-mp.github.io/feed.xml" rel="self" />
     <link href="https://sheila-mp.github.io" />
-    <updated>2026-03-19T17:36:48+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Sheila</name>
     </author>
     <id>https://sheila-mp.github.io</id>
 
-    <entry>
-        <title>Experiencia Profesional</title>
-        <author>
-            <name>Sheila</name>
-        </author>
-        <link href="https://sheila-mp.github.io/experiencia-profesional/"/>
-        <id>https://sheila-mp.github.io/experiencia-profesional/</id>
-
-        <updated>2026-03-19T17:36:48+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Docente de Competencias Digitales en BigFormación D....
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul style="list-style-type: square;">
-<li>
-<h6>Docente de Competencias Digitales en BigFormación</h6>
-</li>
-<li>
-<h6><span style="font-size: 1em; letter-spacing: -0.54px;">D....</span></h6>
-</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Certificados Profesionales</title>
-        <author>
-            <name>Sheila</name>
-        </author>
-        <link href="https://sheila-mp.github.io/certificados-profesionales/"/>
-        <id>https://sheila-mp.github.io/certificados-profesionales/</id>
-
-        <updated>2026-03-19T17:29:26+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Diseño de Productos Gráficos (ARGG0110) Docencia de la Formación Profesional para el Empleo (SSCE0110)
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul style="list-style-type: square;">
-<li>
-<h6>Diseño de Productos Gráficos (ARGG0110)</h6>
-</li>
-<li>
-<h6><span style="font-size: 1em; letter-spacing: -0.54px;">Docencia de la Formación Profesional para el Empleo (SSCE0110) </span></h6>
-</li>
-</ul>
-<h1> </h1>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Formación Reglada</title>
-        <author>
-            <name>Sheila</name>
-        </author>
-        <link href="https://sheila-mp.github.io/que-se-vean/"/>
-        <id>https://sheila-mp.github.io/que-se-vean/</id>
-
-        <updated>2026-03-04T11:50:18+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Máster en Estudos da Literatura e da Cultura Grado en Linguas e Literaturas Modernas e Españolas
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <ul style="list-style-type: square;">
-<li>
-<h6>Máster en Estudos da Literatura e da Cultura</h6>
-</li>
-<li>
-<h6>Grado en Linguas e Literaturas Modernas e Españolas</h6>
-</li>
-</ul>
-            ]]>
-        </content>
-    </entry>
 </feed>
